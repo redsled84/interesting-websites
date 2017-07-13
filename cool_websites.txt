@@ -72,3 +72,8 @@ https://learnxinyminutes.com/
 https://www.youtube.com/playlist?list=PLkVbIsAWN2ltOWmriIdOc5CtiZqUTH7GT
 https://www.meebey.net/posts/ethereum_gpu_mining_on_linux_howto/
 https://vittorioromeo.info/tutorials.html
+https://www.youtube.com/playlist?list=PL006xsVEsbKjSKBmLu1clo85yLrwjY67X
+http://lua-users.org/wiki/LuaStyleGuide
+http://sputnik.freewisdom.org/en/Coding_Standard
+http://www.staticshin.com/programming/definitely-an-open-resty-guide/
+http://lua-users.org/wiki/ObjectOrientationTutorial
