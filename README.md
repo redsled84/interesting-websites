@@ -1,2 +1,2 @@
 # interesting-websites
-Curated list of different resources on loosly related to Linux and Programming
+Curated list of different resources on loosely related to Linux and Programming
