@@ -77,11 +77,9 @@ http://lua-users.org/wiki/LuaStyleGuide
 http://sputnik.freewisdom.org/en/Coding_Standard
 http://www.staticshin.com/programming/definitely-an-open-resty-guide/
 http://lua-users.org/wiki/ObjectOrientationTutorial
-http://s10.bitdownload.ir/Learning.2/
 https://the-eye.eu/public
 https://www.labnol.org/software/wget-command-examples/28750/
 ftp://comecloserto.me/
 https://github.com/kajeagentspi/Datahoarder
 http://fs.evonetbd.com/Media/Movies/
-http://dl6.downloadoo.ir/TV.Show/
-http://s3.bitdownload.ir/Learning/
+https://deepstreamhub.com/tutorials/protocols/webrtc-intro/
